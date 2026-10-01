@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-83-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-84-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -55,6 +55,7 @@
 | 258 | [Add Digits](Easy/0258-add-digits/) | `Easy` | [`C++`](Easy/0258-add-digits/add-digits.cpp) |
 | 283 | [Move Zeroes](Easy/0283-move-zeroes/) | `Easy` | [`C++`](Easy/0283-move-zeroes/move-zeroes.cpp) |
 | 344 | [Reverse String](Easy/0344-reverse-string/) | `Easy` | [`C++`](Easy/0344-reverse-string/reverse-string.cpp) |
+| 347 | [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) | `Medium` | [`C++`](Medium/0347-top-k-frequent-elements/top-k-frequent-elements.cpp) |
 | 349 | [Intersection Of Two Arrays](Easy/0349-intersection-of-two-arrays/) | `Easy` | [`C++`](Easy/0349-intersection-of-two-arrays/intersection-of-two-arrays.cpp) |
 | 387 | [First Unique Character In A String](Easy/0387-first-unique-character-in-a-string/) | `Easy` | [`C++`](Easy/0387-first-unique-character-in-a-string/first-unique-character-in-a-string.cpp) |
 | 451 | [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) | `Medium` | [`C++`](Medium/0451-sort-characters-by-frequency/sort-characters-by-frequency.cpp) |
