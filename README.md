@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-82-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-83-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -17,6 +17,7 @@
 | 9 | [Palindrome Number](Easy/0009-palindrome-number/) | `Easy` | [`C++`](Easy/0009-palindrome-number/palindrome-number.cpp) |
 | 11 | [Container With Most Water](Medium/0011-container-with-most-water/) | `Medium` | [`C++`](Medium/0011-container-with-most-water/container-with-most-water.cpp) |
 | 14 | [Longest Common Prefix](Easy/0014-longest-common-prefix/) | `Easy` | [`C++`](Easy/0014-longest-common-prefix/longest-common-prefix.cpp) |
+| 15 | [3sum](Medium/0015-3sum/) | `Medium` | [`C++`](Medium/0015-3sum/3sum.cpp) |
 | 26 | [Remove Duplicates From Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) | `Easy` | [`C++`](Easy/0026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) |
 | 27 | [Remove Element](Easy/0027-remove-element/) | `Easy` | [`C++`](Easy/0027-remove-element/remove-element.cpp) |
 | 31 | [Next Permutation](Medium/0031-next-permutation/) | `Medium` | [`C++`](Medium/0031-next-permutation/next-permutation.cpp) |
