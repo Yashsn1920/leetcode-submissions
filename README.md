@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-84-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-85-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -25,6 +25,7 @@
 | 34 | [Find First And Last Position Of Element In Sorted Array](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | `Medium` | [`C++`](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) |
 | 35 | [Search Insert Position](Easy/0035-search-insert-position/) | `Easy` | [`C++`](Easy/0035-search-insert-position/search-insert-position.cpp) |
 | 48 | [Rotate Image](Medium/0048-rotate-image/) | `Medium` | [`C++`](Medium/0048-rotate-image/rotate-image.cpp) |
+| 49 | [Group Anagrams](Medium/0049-group-anagrams/) | `Medium` | [`C++`](Medium/0049-group-anagrams/group-anagrams.cpp) |
 | 50 | [Powx N](Medium/0050-powx-n/) | `Medium` | [`C++`](Medium/0050-powx-n/powx-n.cpp) |
 | 53 | [Maximum Subarray](Medium/0053-maximum-subarray/) | `Medium` | [`C++`](Medium/0053-maximum-subarray/maximum-subarray.cpp) |
 | 54 | [Spiral Matrix](Medium/0054-spiral-matrix/) | `Medium` | [`C++`](Medium/0054-spiral-matrix/spiral-matrix.cpp) |
