@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-86-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-87-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -41,6 +41,7 @@
 | 104 | [Maximum Depth Of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) | `Easy` | [`C++`](Easy/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.cpp) |
 | 110 | [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) | `Easy` | [`C++`](Easy/0110-balanced-binary-tree/balanced-binary-tree.cpp) |
 | 118 | [Pascals Triangle](Easy/0118-pascals-triangle/) | `Easy` | [`C++`](Easy/0118-pascals-triangle/pascals-triangle.cpp) |
+| 119 | [Pascals Triangle Ii](Easy/0119-pascals-triangle-ii/) | `Easy` | [`C++`](Easy/0119-pascals-triangle-ii/pascals-triangle-ii.cpp) |
 | 124 | [Binary Tree Maximum Path Sum](Hard/0124-binary-tree-maximum-path-sum/) | `Hard` | [`C++`](Hard/0124-binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.cpp) |
 | 125 | [Valid Palindrome](Easy/0125-valid-palindrome/) | `Easy` | [`C++`](Easy/0125-valid-palindrome/valid-palindrome.cpp) |
 | 128 | [Longest Consecutive Sequence](Medium/0128-longest-consecutive-sequence/) | `Medium` | [`C++`](Medium/0128-longest-consecutive-sequence/longest-consecutive-sequence.cpp) |
