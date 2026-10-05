@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-88-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-89-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -48,6 +48,7 @@
 | 136 | [Single Number](Easy/0136-single-number/) | `Easy` | [`C++`](Easy/0136-single-number/single-number.cpp) |
 | 144 | [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) | `Easy` | [`C++`](Easy/0144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.cpp) |
 | 145 | [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) | `Easy` | [`C++`](Easy/0145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.cpp) |
+| 153 | [Find Minimum In Rotated Sorted Array](Medium/0153-find-minimum-in-rotated-sorted-array/) | `Medium` | [`C++`](Medium/0153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp) |
 | 167 | [Two Sum Ii Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) | `Medium` | [`C++`](Medium/0167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp) |
 | 169 | [Majority Element](Easy/0169-majority-element/) | `Easy` | [`C++`](Easy/0169-majority-element/majority-element.cpp) |
 | 189 | [Rotate Array](Medium/0189-rotate-array/) | `Medium` | [`C++`](Medium/0189-rotate-array/rotate-array.cpp) |
