@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-92-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-93-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -96,6 +96,7 @@
 | 2520 | [Count The Digits That Divide A Number](Easy/2520-count-the-digits-that-divide-a-number/) | `Easy` | [`C++`](Easy/2520-count-the-digits-that-divide-a-number/count-the-digits-that-divide-a-number.cpp) |
 | 2535 | [Difference Between Element Sum And Digit Sum Of An Array](Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | `Easy` | [`C++`](Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/difference-between-element-sum-and-digit-sum-of-an-array.cpp) |
 | 2652 | [Sum Multiples](Easy/2652-sum-multiples/) | `Easy` | [`C++`](Easy/2652-sum-multiples/sum-multiples.cpp) |
+| 2778 | [Sum Of Squares Of Special Elements](Easy/2778-sum-of-squares-of-special-elements/) | `Easy` | [`C++`](Easy/2778-sum-of-squares-of-special-elements/sum-of-squares-of-special-elements.cpp) |
 | 2798 | [Number Of Employees Who Met The Target](Easy/2798-number-of-employees-who-met-the-target/) | `Easy` | [`C++`](Easy/2798-number-of-employees-who-met-the-target/number-of-employees-who-met-the-target.cpp) |
 | 2894 | [Divisible And Non Divisible Sums Difference](Easy/2894-divisible-and-non-divisible-sums-difference/) | `Easy` | [`C++`](Easy/2894-divisible-and-non-divisible-sums-difference/divisible-and-non-divisible-sums-difference.cpp) |
 | 2942 | [Find Words Containing Character](Easy/2942-find-words-containing-character/) | `Easy` | [`C++`](Easy/2942-find-words-containing-character/find-words-containing-character.cpp) |
