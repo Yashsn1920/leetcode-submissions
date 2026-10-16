@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-93-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-94-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -70,6 +70,7 @@
 | 485 | [Max Consecutive Ones](Easy/0485-max-consecutive-ones/) | `Easy` | [`C++`](Easy/0485-max-consecutive-ones/max-consecutive-ones.cpp) |
 | 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | [`C++`](Easy/0509-fibonacci-number/fibonacci-number.cpp) |
 | 543 | [Diameter Of Binary Tree](Easy/0543-diameter-of-binary-tree/) | `Easy` | [`C++`](Easy/0543-diameter-of-binary-tree/diameter-of-binary-tree.cpp) |
+| 662 | [Maximum Width Of Binary Tree](Medium/0662-maximum-width-of-binary-tree/) | `Medium` | [`C++`](Medium/0662-maximum-width-of-binary-tree/maximum-width-of-binary-tree.cpp) |
 | 704 | [Binary Search](Easy/0704-binary-search/) | `Easy` | [`C++`](Easy/0704-binary-search/binary-search.cpp) |
 | 709 | [To Lower Case](Easy/0709-to-lower-case/) | `Easy` | [`C++`](Easy/0709-to-lower-case/to-lower-case.cpp) |
 | 724 | [Find Pivot Index](Easy/0724-find-pivot-index/) | `Easy` | [`C++`](Easy/0724-find-pivot-index/find-pivot-index.cpp) |
