@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-99-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-100-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -94,6 +94,7 @@
 | 1752 | [Check If Array Is Sorted And Rotated](Easy/1752-check-if-array-is-sorted-and-rotated/) | `Easy` | [`C++`](Easy/1752-check-if-array-is-sorted-and-rotated/check-if-array-is-sorted-and-rotated.cpp) |
 | 1903 | [Largest Odd Number In String](Easy/1903-largest-odd-number-in-string/) | `Easy` | [`C++`](Easy/1903-largest-odd-number-in-string/largest-odd-number-in-string.cpp) |
 | 1920 | [Build Array From Permutation](Easy/1920-build-array-from-permutation/) | `Easy` | [`C++`](Easy/1920-build-array-from-permutation/build-array-from-permutation.cpp) |
+| 1929 | [Concatenation Of Array](Easy/1929-concatenation-of-array/) | `Easy` | [`C++`](Easy/1929-concatenation-of-array/concatenation-of-array.cpp) |
 | 2089 | [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) | `Easy` | [`C++`](Easy/2089-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
 | 2108 | [Find First Palindromic String In The Array](Easy/2108-find-first-palindromic-string-in-the-array/) | `Easy` | [`C++`](Easy/2108-find-first-palindromic-string-in-the-array/find-first-palindromic-string-in-the-array.cpp) |
 | 2149 | [Rearrange Array Elements By Sign](Medium/2149-rearrange-array-elements-by-sign/) | `Medium` | [`C++`](Medium/2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.cpp) |
