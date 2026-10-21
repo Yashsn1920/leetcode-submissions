@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-97-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-98-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -47,6 +47,7 @@
 | 124 | [Binary Tree Maximum Path Sum](Hard/0124-binary-tree-maximum-path-sum/) | `Hard` | [`C++`](Hard/0124-binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.cpp) |
 | 125 | [Valid Palindrome](Easy/0125-valid-palindrome/) | `Easy` | [`C++`](Easy/0125-valid-palindrome/valid-palindrome.cpp) |
 | 128 | [Longest Consecutive Sequence](Medium/0128-longest-consecutive-sequence/) | `Medium` | [`C++`](Medium/0128-longest-consecutive-sequence/longest-consecutive-sequence.cpp) |
+| 129 | [Sum Root To Leaf Numbers](Medium/0129-sum-root-to-leaf-numbers/) | `Medium` | [`C++`](Medium/0129-sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.cpp) |
 | 136 | [Single Number](Easy/0136-single-number/) | `Easy` | [`C++`](Easy/0136-single-number/single-number.cpp) |
 | 144 | [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) | `Easy` | [`C++`](Easy/0144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.cpp) |
 | 145 | [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) | `Easy` | [`C++`](Easy/0145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.cpp) |
