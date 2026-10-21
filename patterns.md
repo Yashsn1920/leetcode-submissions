@@ -12,3 +12,6 @@ Q 129: Was really just easy. But again got stuck in which parameters to pass and
        Revise: 24/10/26
 
 Q 2236: Really easy. Nothing notworthy.. 
+
+Q 863: Conceptually stuck in this one. Couldn't understand how unordered hashmap can help to go up in tree as well. We used hashmap such that it stores 2 memory addrees in pair, one of child and one of parent. In this way we get data to traverse up as well. Really good question. Need to revise twice. 
+       Revise: 25/10/26
