@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-100-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-101-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -78,6 +78,7 @@
 | 709 | [To Lower Case](Easy/0709-to-lower-case/) | `Easy` | [`C++`](Easy/0709-to-lower-case/to-lower-case.cpp) |
 | 724 | [Find Pivot Index](Easy/0724-find-pivot-index/) | `Easy` | [`C++`](Easy/0724-find-pivot-index/find-pivot-index.cpp) |
 | 796 | [Rotate String](Easy/0796-rotate-string/) | `Easy` | [`C++`](Easy/0796-rotate-string/rotate-string.cpp) |
+| 863 | [All Nodes Distance K In Binary Tree](Medium/0863-all-nodes-distance-k-in-binary-tree/) | `Medium` | [`C++`](Medium/0863-all-nodes-distance-k-in-binary-tree/all-nodes-distance-k-in-binary-tree.cpp) |
 | 875 | [Koko Eating Bananas](Medium/0875-koko-eating-bananas/) | `Medium` | [`C++`](Medium/0875-koko-eating-bananas/koko-eating-bananas.cpp) |
 | 905 | [Sort Array By Parity](Easy/0905-sort-array-by-parity/) | `Easy` | [`C++`](Easy/0905-sort-array-by-parity/sort-array-by-parity.cpp) |
 | 922 | [Sort Array By Parity Ii](Easy/0922-sort-array-by-parity-ii/) | `Easy` | [`C++`](Easy/0922-sort-array-by-parity-ii/sort-array-by-parity-ii.cpp) |
