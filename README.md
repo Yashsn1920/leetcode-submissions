@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-98-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-99-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -98,6 +98,7 @@
 | 2108 | [Find First Palindromic String In The Array](Easy/2108-find-first-palindromic-string-in-the-array/) | `Easy` | [`C++`](Easy/2108-find-first-palindromic-string-in-the-array/find-first-palindromic-string-in-the-array.cpp) |
 | 2149 | [Rearrange Array Elements By Sign](Medium/2149-rearrange-array-elements-by-sign/) | `Medium` | [`C++`](Medium/2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.cpp) |
 | 2235 | [Add Two Integers](Easy/2235-add-two-integers/) | `Easy` | [`Python`](Easy/2235-add-two-integers/add-two-integers.py) |
+| 2236 | [Root Equals Sum Of Children](Easy/2236-root-equals-sum-of-children/) | `Easy` | [`C++`](Easy/2236-root-equals-sum-of-children/root-equals-sum-of-children.cpp) |
 | 2520 | [Count The Digits That Divide A Number](Easy/2520-count-the-digits-that-divide-a-number/) | `Easy` | [`C++`](Easy/2520-count-the-digits-that-divide-a-number/count-the-digits-that-divide-a-number.cpp) |
 | 2535 | [Difference Between Element Sum And Digit Sum Of An Array](Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | `Easy` | [`C++`](Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/difference-between-element-sum-and-digit-sum-of-an-array.cpp) |
 | 2652 | [Sum Multiples](Easy/2652-sum-multiples/) | `Easy` | [`C++`](Easy/2652-sum-multiples/sum-multiples.cpp) |
