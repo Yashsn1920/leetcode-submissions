@@ -10,3 +10,5 @@ Q 113: Was really just same to previous one. I tried to replace bool with return
 
 Q 129: Was really just easy. But again got stuck in which parameters to pass and which not. Focused too much on gauging depth to know what to put in pow(10, x) and tried array for it when I could just do sum += sum * 10 + root -> val.Forgot something basic on time. 
        Revise: 24/10/26
+
+Q 2236: Really easy. Nothing notworthy.. 
