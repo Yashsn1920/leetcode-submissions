@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-101-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-102-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -64,6 +64,7 @@
 | 238 | [Product Of Array Except Self](Medium/0238-product-of-array-except-self/) | `Medium` | [`C++`](Medium/0238-product-of-array-except-self/product-of-array-except-self.cpp) |
 | 242 | [Valid Anagram](Easy/0242-valid-anagram/) | `Easy` | [`C++`](Easy/0242-valid-anagram/valid-anagram.cpp) |
 | 258 | [Add Digits](Easy/0258-add-digits/) | `Easy` | [`C++`](Easy/0258-add-digits/add-digits.cpp) |
+| 268 | [Missing Number](Easy/0268-missing-number/) | `Easy` | [`C++`](Easy/0268-missing-number/missing-number.cpp) |
 | 283 | [Move Zeroes](Easy/0283-move-zeroes/) | `Easy` | [`C++`](Easy/0283-move-zeroes/move-zeroes.cpp) |
 | 344 | [Reverse String](Easy/0344-reverse-string/) | `Easy` | [`C++`](Easy/0344-reverse-string/reverse-string.cpp) |
 | 347 | [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) | `Medium` | [`C++`](Medium/0347-top-k-frequent-elements/top-k-frequent-elements.cpp) |
