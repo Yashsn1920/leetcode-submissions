@@ -15,3 +15,5 @@ Q 2236: Really easy. Nothing notworthy..
 
 Q 863: Conceptually stuck in this one. Couldn't understand how unordered hashmap can help to go up in tree as well. We used hashmap such that it stores 2 memory addrees in pair, one of child and one of parent. In this way we get data to traverse up as well. Really good question. Need to revise twice. 
        Revise: 25/10/26
+
+Q 268: Should have used sum formula. Always consider using sum of array elements when question includes continuous numbers in the array. 
