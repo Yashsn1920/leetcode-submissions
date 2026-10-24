@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-104-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-105-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -113,6 +113,7 @@
 | 2974 | [Minimum Number Game](Easy/2974-minimum-number-game/) | `Easy` | [`C++`](Easy/2974-minimum-number-game/minimum-number-game.cpp) |
 | 3019 | [Number Of Changing Keys](Easy/3019-number-of-changing-keys/) | `Easy` | [`C++`](Easy/3019-number-of-changing-keys/number-of-changing-keys.cpp) |
 | 3498 | [Reverse Degree Of A String](Easy/3498-reverse-degree-of-a-string/) | `Easy` | [`C++`](Easy/3498-reverse-degree-of-a-string/reverse-degree-of-a-string.cpp) |
+| 101152 | [Count Subarrays With Loose Bounds](Medium/101152-count-subarrays-with-loose-bounds/) | `Medium` | [`C++`](Medium/101152-count-subarrays-with-loose-bounds/count-subarrays-with-loose-bounds.cpp) |
 | 101181 | [Minimum Queen Moves To Reach Target](Easy/101181-minimum-queen-moves-to-reach-target/) | `Easy` | [`C++`](Easy/101181-minimum-queen-moves-to-reach-target/minimum-queen-moves-to-reach-target.cpp) |
 | 101196 | [Difference Between Peaks And Valleys](Easy/101196-difference-between-peaks-and-valleys/) | `Easy` | [`C++`](Easy/101196-difference-between-peaks-and-valleys/difference-between-peaks-and-valleys.cpp) |
 
