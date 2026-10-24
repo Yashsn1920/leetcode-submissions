@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-102-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-103-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -59,6 +59,7 @@
 | 199 | [Binary Tree Right Side View](Medium/0199-binary-tree-right-side-view/) | `Medium` | [`C++`](Medium/0199-binary-tree-right-side-view/binary-tree-right-side-view.cpp) |
 | 205 | [Isomorphic Strings](Easy/0205-isomorphic-strings/) | `Easy` | [`C++`](Easy/0205-isomorphic-strings/isomorphic-strings.cpp) |
 | 217 | [Contains Duplicate](Easy/0217-contains-duplicate/) | `Easy` | [`C++`](Easy/0217-contains-duplicate/contains-duplicate.cpp) |
+| 222 | [Count Complete Tree Nodes](Medium/0222-count-complete-tree-nodes/) | `Medium` | [`C++`](Medium/0222-count-complete-tree-nodes/count-complete-tree-nodes.cpp) |
 | 229 | [Majority Element Ii](Medium/0229-majority-element-ii/) | `Medium` | [`C++`](Medium/0229-majority-element-ii/majority-element-ii.cpp) |
 | 236 | [Lowest Common Ancestor Of A Binary Tree](Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | `Medium` | [`C++`](Medium/0236-lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.cpp) |
 | 238 | [Product Of Array Except Self](Medium/0238-product-of-array-except-self/) | `Medium` | [`C++`](Medium/0238-product-of-array-except-self/product-of-array-except-self.cpp) |
