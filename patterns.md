@@ -17,3 +17,5 @@ Q 863: Conceptually stuck in this one. Couldn't understand how unordered hashmap
        Revise: 25/10/26
 
 Q 268: Should have used sum formula. Always consider using sum of array elements when question includes continuous numbers in the array. 
+
+Q 1700: Logic was mostly correct, just struggled with finding right conditions for the loopp. loop shouldn't end at end of array, it ends only sandwich is empty or all the elementrs in students remaining are same..(PS Dont chase validation of resentful ppl) 
