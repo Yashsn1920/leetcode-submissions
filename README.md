@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-105-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-106-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -94,6 +94,7 @@
 | 1486 | [Xor Operation In An Array](Easy/1486-xor-operation-in-an-array/) | `Easy` | [`C++`](Easy/1486-xor-operation-in-an-array/xor-operation-in-an-array.cpp) |
 | 1512 | [Number Of Good Pairs](Easy/1512-number-of-good-pairs/) | `Easy` | [`C++`](Easy/1512-number-of-good-pairs/number-of-good-pairs.cpp) |
 | 1672 | [Richest Customer Wealth](Easy/1672-richest-customer-wealth/) | `Easy` | [`C++`](Easy/1672-richest-customer-wealth/richest-customer-wealth.cpp) |
+| 1700 | [Number Of Students Unable To Eat Lunch](Easy/1700-number-of-students-unable-to-eat-lunch/) | `Easy` | [`C++`](Easy/1700-number-of-students-unable-to-eat-lunch/number-of-students-unable-to-eat-lunch.cpp) |
 | 1752 | [Check If Array Is Sorted And Rotated](Easy/1752-check-if-array-is-sorted-and-rotated/) | `Easy` | [`C++`](Easy/1752-check-if-array-is-sorted-and-rotated/check-if-array-is-sorted-and-rotated.cpp) |
 | 1903 | [Largest Odd Number In String](Easy/1903-largest-odd-number-in-string/) | `Easy` | [`C++`](Easy/1903-largest-odd-number-in-string/largest-odd-number-in-string.cpp) |
 | 1920 | [Build Array From Permutation](Easy/1920-build-array-from-permutation/) | `Easy` | [`C++`](Easy/1920-build-array-from-permutation/build-array-from-permutation.cpp) |
