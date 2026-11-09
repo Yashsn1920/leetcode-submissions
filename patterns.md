@@ -19,3 +19,7 @@ Q 863: Conceptually stuck in this one. Couldn't understand how unordered hashmap
 Q 268: Should have used sum formula. Always consider using sum of array elements when question includes continuous numbers in the array. 
 
 Q 1700: Logic was mostly correct, just struggled with finding right conditions for the loopp. loop shouldn't end at end of array, it ends only sandwich is empty or all the elementrs in students remaining are same..(PS Dont chase validation of resentful ppl) 
+
+
+Q 105: Got stuck in how recusrion backtracking works. First we go down all the way till first recursion call, when it returns null or cant satisfy a condition, we with last updated parameters, explore recursion call 2. when both of this give null, we take a step back and explore the second recursion call of that particular stage, this is called backtracking. Also got stuck in how to update parameters. 
+        revise: 15/ 11
