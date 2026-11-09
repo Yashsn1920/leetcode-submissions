@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-106-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-107-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -73,6 +73,7 @@
 | 387 | [First Unique Character In A String](Easy/0387-first-unique-character-in-a-string/) | `Easy` | [`C++`](Easy/0387-first-unique-character-in-a-string/first-unique-character-in-a-string.cpp) |
 | 451 | [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) | `Medium` | [`C++`](Medium/0451-sort-characters-by-frequency/sort-characters-by-frequency.cpp) |
 | 485 | [Max Consecutive Ones](Easy/0485-max-consecutive-ones/) | `Easy` | [`C++`](Easy/0485-max-consecutive-ones/max-consecutive-ones.cpp) |
+| 507 | [Perfect Number](Easy/0507-perfect-number/) | `Easy` | [`C++`](Easy/0507-perfect-number/perfect-number.cpp) |
 | 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | [`C++`](Easy/0509-fibonacci-number/fibonacci-number.cpp) |
 | 543 | [Diameter Of Binary Tree](Easy/0543-diameter-of-binary-tree/) | `Easy` | [`C++`](Easy/0543-diameter-of-binary-tree/diameter-of-binary-tree.cpp) |
 | 662 | [Maximum Width Of Binary Tree](Medium/0662-maximum-width-of-binary-tree/) | `Medium` | [`C++`](Medium/0662-maximum-width-of-binary-tree/maximum-width-of-binary-tree.cpp) |
