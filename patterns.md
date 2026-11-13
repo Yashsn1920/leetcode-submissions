@@ -23,3 +23,5 @@ Q 1700: Logic was mostly correct, just struggled with finding right conditions f
 
 Q 105: Got stuck in how recusrion backtracking works. First we go down all the way till first recursion call, when it returns null or cant satisfy a condition, we with last updated parameters, explore recursion call 2. when both of this give null, we take a step back and explore the second recursion call of that particular stage, this is called backtracking. Also got stuck in how to update parameters. 
         revise: 15/ 11
+
+Q 540: Need to learn to think about indices as well in binary search problems. 
