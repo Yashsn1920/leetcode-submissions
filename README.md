@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-108-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-109-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -40,6 +40,7 @@
 | 103 | [Binary Tree Zigzag Level Order Traversal](Medium/0103-binary-tree-zigzag-level-order-traversal/) | `Medium` | [`C++`](Medium/0103-binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.cpp) |
 | 104 | [Maximum Depth Of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) | `Easy` | [`C++`](Easy/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.cpp) |
 | 105 | [Construct Binary Tree From Preorder And Inorder Traversal](Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | `Medium` | [`C++`](Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.cpp) |
+| 106 | [Construct Binary Tree From Inorder And Postorder Traversal](Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | `Medium` | [`C++`](Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/construct-binary-tree-from-inorder-and-postorder-traversal.cpp) |
 | 110 | [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) | `Easy` | [`C++`](Easy/0110-balanced-binary-tree/balanced-binary-tree.cpp) |
 | 112 | [Path Sum](Easy/0112-path-sum/) | `Easy` | [`C++`](Easy/0112-path-sum/path-sum.cpp) |
 | 113 | [Path Sum Ii](Medium/0113-path-sum-ii/) | `Medium` | [`C++`](Medium/0113-path-sum-ii/path-sum-ii.cpp) |
